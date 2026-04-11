@@ -15,9 +15,10 @@ AI Chatbot (React + Flask)
 ⚙️ Setup Instructions
 
 1. Start Ollama
+   
 ollama run mistral
 
-3. Run Backend
+2. Run Backend
 python app.py
 
 3. Run Frontend
@@ -28,5 +29,5 @@ npm run dev
 
 - Chat history
 - Authentication
-- Better UI (ChatGPT style)
+- Better UI 
 
